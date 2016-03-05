@@ -1,5 +1,5 @@
 # launchsalsa
-Ever want to make your Launchpad Pro do something new? Of course you did!
+Ever wanted to make your Launchpad Pro do something new? Of course you have!
 
 Import this module and subclass ScreenController to receive UI callbacks and interface with ScreenView to manage display.
 A cleaner API is coming for simpler output and more of an MVC feel (ScreenView will probably change).
